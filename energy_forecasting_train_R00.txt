@@ -1,0 +1,24 @@
+@echo off
+REM --- Conda Activation and Script Execution Script ---
+
+REM Set the path to your Conda environment. The double quotes handle spaces.
+set CONDA_ENV_PATH="C:\Users\Administrator\energy_forecast_env"
+
+REM --- 1. Activate the Conda Environment ---
+REM The 'call' command is essential for running Conda commands in a batch file
+echo Activating Conda Environment: %CONDA_ENV_PATH%
+call conda activate %CONDA_ENV_PATH%
+
+REM --- 2. Change to the Project Drive and Directory ---
+REM 'E:' changes the active drive. 'cd' changes the directory.
+E:
+cd E:\GENERATING_DATA\ML_work\energy_forecasting
+
+REM --- 3. Run the Python Script in 'train' mode ---
+echo Starting Energy Forecasting Script in TRAIN mode...
+python energy_forecasting_R00.py train
+
+REM --- 4. Pause to keep the window open to see the output and errors ---
+echo.
+echo Script execution complete. Review the output above.
+pause

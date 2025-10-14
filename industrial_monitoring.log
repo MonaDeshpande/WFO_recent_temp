@@ -1,0 +1,27 @@
+2025-10-14 13:06:44,679 - INFO - --- Processing data for Column C-00 ---
+2025-10-14 13:06:45,374 - INFO - Successfully retrieved data for C-00.
+2025-10-14 13:06:45,936 - WARNING - Instrument 'TI-202' from ranking file not found in retrieved data for C-00. Skipping its plot.
+2025-10-14 13:06:46,115 - INFO - Inserted page break after 3 plots.
+2025-10-14 13:06:46,116 - WARNING - Instrument 'P-01' from ranking file not found in retrieved data for C-00. Skipping its plot.
+2025-10-14 13:06:46,116 - WARNING - Instrument 'EQ_Ratio' from ranking file not found in retrieved data for C-00. Skipping its plot.
+2025-10-14 13:06:46,284 - INFO - --- Processing data for Column C-01 ---
+2025-10-14 13:06:46,768 - INFO - Successfully retrieved data for C-01.
+2025-10-14 13:06:47,083 - INFO - Inserted page break after 3 plots.
+2025-10-14 13:06:47,726 - INFO - Inserted page break after 3 plots.
+2025-10-14 13:06:47,889 - WARNING - Instrument 'C-01-B' from ranking file not found in retrieved data for C-01. Skipping its plot.
+2025-10-14 13:06:47,889 - WARNING - Instrument 'EQ_Ratio' from ranking file not found in retrieved data for C-01. Skipping its plot.
+2025-10-14 13:06:47,889 - INFO - --- Processing data for Column C-02 ---
+2025-10-14 13:06:48,330 - INFO - Successfully retrieved data for C-02.
+2025-10-14 13:06:48,774 - INFO - Inserted page break after 3 plots.
+2025-10-14 13:06:48,919 - WARNING - Instrument 'FT-02' from ranking file not found in retrieved data for C-02. Skipping its plot.
+2025-10-14 13:06:49,290 - INFO - Inserted page break after 3 plots.
+2025-10-14 13:06:49,290 - WARNING - Instrument 'EQ_Ratio' from ranking file not found in retrieved data for C-02. Skipping its plot.
+2025-10-14 13:06:49,290 - WARNING - Instrument 'C-02-T' from ranking file not found in retrieved data for C-02. Skipping its plot.
+2025-10-14 13:06:49,291 - INFO - --- Processing data for Column C-03 ---
+2025-10-14 13:06:49,726 - INFO - Successfully retrieved data for C-03.
+2025-10-14 13:06:49,749 - WARNING - Instrument 'FT-06' from ranking file not found in retrieved data for C-03. Skipping its plot.
+2025-10-14 13:06:49,749 - WARNING - Instrument 'TI-32' from ranking file not found in retrieved data for C-03. Skipping its plot.
+2025-10-14 13:06:50,412 - INFO - Inserted page break after 3 plots.
+2025-10-14 13:06:50,563 - WARNING - Instrument 'EQ_Ratio' from ranking file not found in retrieved data for C-03. Skipping its plot.
+2025-10-14 13:06:50,563 - WARNING - Instrument 'C-03-B' from ranking file not found in retrieved data for C-03. Skipping its plot.
+2025-10-14 13:06:50,596 - INFO - Successfully generated a single Word document: Anomalies_Report.docx

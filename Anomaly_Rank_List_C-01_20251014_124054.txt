@@ -1,0 +1,15 @@
+Instrument Anomaly Ranking for Column C-01
+========================================
+
+Total Anomalies Detected: 9
+
+Top Instruments with Highest Anomaly Contribution:
+1. HeatDuty_C-01_Reboiler: 33.83 total deviation (20.58% of total score)
+2. FT-02: 27.47 total deviation (16.71% of total score)
+3. FT-62: 26.95 total deviation (16.39% of total score)
+4. TI-04: 21.73 total deviation (13.22% of total score)
+5. TI-204: 20.73 total deviation (12.61% of total score)
+6. FT-05: 19.59 total deviation (11.92% of total score)
+7. C-01-B: 9.51 total deviation (5.78% of total score)
+8. EQ_Ratio: 4.59 total deviation (2.79% of total score)
+9. FT-08: 0.00 total deviation (0.00% of total score)
